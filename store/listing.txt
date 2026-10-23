@@ -1,0 +1,10 @@
+Nombre: Convertidor de Unidades
+Corta: Convierte longitud, masa, temperatura, volumen y más al instante.
+Larga:
+Convertidor de Unidades te da el resultado al instante mientras escribes. Elige una categoría, indica el valor y mira la equivalencia en todas las unidades a la vez.
+
+• 8 categorías: longitud, masa, temperatura, volumen, área, velocidad, tiempo y datos.
+• Resultado en vivo y tabla con todas las unidades.
+• Botón para intercambiar origen y destino.
+• Copia el resultado con un toque.
+• Modo claro y oscuro. Sin registro. Contiene anuncios.
